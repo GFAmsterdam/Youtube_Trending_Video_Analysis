@@ -6,13 +6,14 @@ The first week we are working on outlining the project and come up with an objec
 In an advertising perspective we are trying to figure out what is infuencing the popularity of the videos. 
 
 ## Data
-This dataset includes several months (and counting) of data on daily trending YouTube videos for USA. with up to 200 listed trending videos per day.
+This dataset includes several months of data on daily trending YouTube videos for USA. with up to 200 listed trending videos per day.
 
 Data includes the video title, channel title, publish time, tags, views, likes and dislikes, description, and comment count.
 
-## Discussion Progress
+# Notes
 
-Decided to go to Sentimental analysis on the tags.
-Factors influencing the popularity the views, likes, category etc.
-Tables for the database.
-Dashboard.
+* Decided to use Sentimental analysis on the tags.
+* Factors influencing the popularity the views, likes, category etc.
+* Tables for the database. - View ID, Like and Dislikes and table link. 
+* To separate the publish date and time, rearrange the order to have the publish time first. 
+* Dashboard - Tableu to be used
