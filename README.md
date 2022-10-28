@@ -16,12 +16,13 @@ Things that would have helped our analysis and are missing from this dataset
 * Demography -  gender, age
 * Video Run time
 
-# Notes (Project Progress)
+# Notes to keep track (Project Progress)
 
 * Decided to use Sentimental analysis on the tags.
 * Factors influencing the popularity the views, likes, category etc.
-* Tables for the database. - View ID, Like and Dislikes and table link. 
+* Tables for the database. - View ID, Like and Dislikes and table link. (Have a data flow chart - to link separate tables)
 * To separate the publish date and time, rearrange the order to have the publish time first. 
-* Dashboard - Tableu to be used
+* Dashboard - Tableau to be used.
+
 
 
