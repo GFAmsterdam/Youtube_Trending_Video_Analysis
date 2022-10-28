@@ -10,7 +10,7 @@ This dataset includes several months of data on daily trending YouTube videos fo
 
 Data includes the video title, channel title, publish time, tags, views, likes and dislikes, description, and comment count.
 
-# Notes
+# Notes (Project Progress)
 
 * Decided to use Sentimental analysis on the tags.
 * Factors influencing the popularity the views, likes, category etc.
