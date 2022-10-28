@@ -11,7 +11,8 @@ This dataset includes several months of data on daily trending YouTube videos fo
 Data includes the video title, channel title, publish time, tags, views, likes and dislikes, description, and comment count.
 
 
-## Things that would have helped our analysis and are missing from this dataset
+### Missing Information
+Things that would have helped our analysis and are missing from this dataset
 * Demography -  gender, age
 * Video Run time
 
