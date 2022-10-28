@@ -3,12 +3,17 @@
 ## Project Overview
 The first week we are working on outlining the project and come up with an objective and questions we could answer regarding the project. 
 
-In an advertising perspective we are trying to figure out what is infuelcing to make a video the most popular on Youtube. (Cracking the Youtube Algorithm) 
+In an advertising perspective we are trying to figure out what in a video is making it the most popular on Youtube. (Cracking the Youtube Algorithm) 
 
 ## Data
 This dataset includes several months of data on daily trending YouTube videos for USA. with up to 200 listed trending videos per day.
 
 Data includes the video title, channel title, publish time, tags, views, likes and dislikes, description, and comment count.
+
+
+## Things that would have helped our analysis and are missing from this dataset
+* Demography -  gender, age
+* Video Run time
 
 # Notes (Project Progress)
 
@@ -17,3 +22,5 @@ Data includes the video title, channel title, publish time, tags, views, likes a
 * Tables for the database. - View ID, Like and Dislikes and table link. 
 * To separate the publish date and time, rearrange the order to have the publish time first. 
 * Dashboard - Tableu to be used
+
+
