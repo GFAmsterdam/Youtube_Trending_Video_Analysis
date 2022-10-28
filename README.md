@@ -3,7 +3,7 @@
 ## Project Overview
 The first week we are working on outlining the project and come up with an objective and questions we could answer regarding the project. 
 
-In an advertising perspective we are trying to figure out what is infuencing the popularity of the videos. 
+In an advertising perspective we are trying to figure out what is infuelcing to make a video the most popular on Youtube. (Cracking the Youtube Algorithm) 
 
 ## Data
 This dataset includes several months of data on daily trending YouTube videos for USA. with up to 200 listed trending videos per day.
