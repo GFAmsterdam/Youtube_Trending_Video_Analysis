@@ -21,6 +21,7 @@ Things that would have helped our analysis and are missing from this dataset
 * Decided to use Sentimental analysis on the tags.
 * Factors influencing the popularity the views, likes, category etc.
 * Tables for the database. - View ID, Like and Dislikes and table link. (Have a data flow chart - to link separate tables)
+* Remove URL from the column
 * To separate the publish date and time, rearrange the order to have the publish time first. 
 * Dashboard - Tableau to be used.
 
