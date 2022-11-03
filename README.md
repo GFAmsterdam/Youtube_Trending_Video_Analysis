@@ -24,6 +24,17 @@ Things that would have helped our analysis and are missing from this dataset
 * Remove URL from the column
 * To separate the publish date and time, rearrange the order to have the publish time first. 
 * Dashboard - Tableau to be used.
+### Database
+The Excel spreadsheet in the folder is an example of the details and tables we are going to look into in our database.
+* Channel titles - unique count of videos
+* categories based on views<br/>
+![image](https://user-images.githubusercontent.com/105166481/199854994-abf33fbb-246e-4009-8028-3487e36524ea.png)
+
+* Most disliked channel<br/>
+![image](https://user-images.githubusercontent.com/105166481/199855080-2cd76417-5d75-4729-9eed-1ce039ed7f4e.png)
+
+* Most liked channel<br/>
+![image](https://user-images.githubusercontent.com/105166481/199855125-7bb21e5f-863c-40a3-83ff-33abab6f848e.png)
 
 
 
