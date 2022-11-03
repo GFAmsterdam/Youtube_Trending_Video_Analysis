@@ -9,6 +9,7 @@
     - Does category effect returns? (returns = views)
     - How does a video reach the status of trending? How does it lost that status?
     - How do views, shares, likes, comments effect a video? Which has the strongest effect on making a video trending?
+    - What data could have further impacted this project? Financial? Cost per Click? Gender/Demographic?
 
 ## Processes Used
     - Tableau will be used as our Dashboard
