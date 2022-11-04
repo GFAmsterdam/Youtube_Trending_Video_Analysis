@@ -1,10 +1,12 @@
 
+
 ## Overview
 First week we are preparing the dataset and mapping out the roadmap for the project. Youtube is extremely popular, we are hoping to find out the correlation between some features in the dataset.
 
 ## About the dataset
 
 # YouTube Trending Video Analysis
+
 <br/>![image](https://user-images.githubusercontent.com/105166481/198424022-199c03fb-bfb8-4d18-b173-70d5fd4b72af.png)
 
 ## Project Overview
@@ -44,7 +46,9 @@ Things that would have helped our analysis and are missing from this dataset
 * To separate the publish date and time, rearrange the order to have the publish time first. 
 * Dashboard - Tableau to be used.
 ### Database
+
 PostgreSQL Database is going to be used. The Excel spreadsheet in the folder is an example of the details and tables we are going to look into in our database.
+
 * Channel titles - unique count of videos
 * categories based on views<br/>
 ![image](https://user-images.githubusercontent.com/105166481/199854994-abf33fbb-246e-4009-8028-3487e36524ea.png)
@@ -62,5 +66,6 @@ Some initial questions we're hoping to answer with the dataset:
 - What categories have the most trending videos?
 - What are the top trending videos creaters?
 - Is there a correlation between views and likes/dislikes or comment?
+
 
 
