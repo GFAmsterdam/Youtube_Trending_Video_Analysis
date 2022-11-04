@@ -25,7 +25,7 @@ Things that would have helped our analysis and are missing from this dataset
 * To separate the publish date and time, rearrange the order to have the publish time first. 
 * Dashboard - Tableau to be used.
 ### Database
-Postgres SQL Database is going to be used. The Excel spreadsheet in the folder is an example of the details and tables we are going to look into in our database.
+PostgreSQL Database is going to be used. The Excel spreadsheet in the folder is an example of the details and tables we are going to look into in our database.
 * Channel titles - unique count of videos
 * categories based on views<br/>
 ![image](https://user-images.githubusercontent.com/105166481/199854994-abf33fbb-246e-4009-8028-3487e36524ea.png)
