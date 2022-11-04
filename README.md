@@ -1,3 +1,9 @@
+
+## Overview
+First week we are preparing the dataset and mapping out the roadmap for the project. Youtube is extremely popular, we are hoping to find out the correlation between some features in the dataset.
+
+## About the dataset
+
 # YouTube Trending Video Analysis
 <br/>![image](https://user-images.githubusercontent.com/105166481/198424022-199c03fb-bfb8-4d18-b173-70d5fd4b72af.png)
 
@@ -12,6 +18,7 @@ This dataset includes several months of data on daily trending YouTube videos fo
 
 Data includes the video title, channel title, publish time, tags, views, likes and dislikes, description, and comment count.
 
+
 The dataset for the project is “Trending YouTube Videos Statistics”. (source: https://www.kaggle.com/datasets/datasnaek/youtube-new) 
 The dataset contains daily trending video list from 2017-11-14 to 2018-04-16, with data such as "video_id", "title", "channel_title", "trending_date", "publish_date", "views", "likes", "dislikes", "comment_count" and more.
 
@@ -20,6 +27,7 @@ The original dataset includes 2 different data for each regions:
 - Video data which is in .csv format.
 
 For our project we decided to use the US region data.
+
 
 
 ### Missing Information
@@ -48,8 +56,11 @@ PostgreSQL Database is going to be used. The Excel spreadsheet in the folder is 
 ![image](https://user-images.githubusercontent.com/105166481/199855125-7bb21e5f-863c-40a3-83ff-33abab6f848e.png)
 
 
+
 ## Questions
 Some initial questions we're hoping to answer with the dataset:
 - What categories have the most trending videos?
 - What are the top trending videos creaters?
 - Is there a correlation between views and likes/dislikes or comment?
+
+
