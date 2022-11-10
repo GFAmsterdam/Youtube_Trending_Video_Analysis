@@ -68,10 +68,12 @@ Some initial questions we're hoping to answer with the dataset:
 - Is there a correlation between views and likes/dislikes or comment?
 
 Tableau Dashboard
-https://public.![Youtube Video Trends](https://user-images.githubusercontent.com/105166481/201225143-d4ebcb55-ee4a-449e-a6d1-bb800c004db8.png)
-![Category Metrics](https://user-images.githubusercontent.com/105166481/201225147-66667eca-09ee-461f-9bc6-86e5c7f2dcb1.png)
+https://public.tableau.com/app/profile/sreeja.karanam/viz/Youtube_Dashboard_16681094161630/YoutubeVideoTrends?publish=yes <br/>
+![Category Metrics](https://user-images.githubusercontent.com/105166481/201225288-930cceed-feba-4592-9a7e-0c9fd3e696fb.png)
+<br/>
+![Youtube Video Trends](https://user-images.githubusercontent.com/105166481/201225305-21b8a933-2514-4463-8cf8-9fb11abd4cea.png)
 
-tableau.com/app/profile/sreeja.karanam/viz/Youtube_Dashboard_16681094161630/YoutubeVideoTrends?publish=yes
+
 
 
 
