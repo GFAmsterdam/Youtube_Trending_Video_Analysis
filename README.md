@@ -60,12 +60,15 @@ Things that would have helped our analysis and are missing from this dataset
 
 # Notes to keep track (Project Progress)
 
-* Decided to use Sentimental analysis on the tags.
+* Used Clustering to figure out of groups are easily categorized
+* Used Linear Regression to figure out if our target was related to the rest (target = days trending, posted day to trending)
 * Factors influencing the popularity the views, likes, category etc.
 * Tables for the database. - View ID, Like and Dislikes and table link. (Have a data flow chart - to link separate tables)
 * Remove URL from the column
 * To separate the publish date and time, rearrange the order to have the publish time first. 
 * Dashboard - Tableau to be used.
+* 
+
 ### Database
 
 PostgreSQL Database is going to be used. The Excel spreadsheet in the folder is an example of the details and tables we are going to look into in our database.
@@ -87,6 +90,11 @@ Some initial questions we're hoping to answer with the dataset:
 - What categories have the most trending videos?
 - What are the top trending videos creaters?
 - Is there a correlation between views and likes/dislikes or comment?
+- What day of the week is best for trending videos? 
+- What category has the most views? videoes? 
+- What is the best day to post vidoes?
+- Does Tag count really matter for a video to be considered trending?
+
 
 Tableau Dashboard
 https://public.tableau.com/app/profile/sreeja.karanam/viz/Youtube_Dashboard_16681094161630/YoutubeVideoTrends?publish=yes <br/>
