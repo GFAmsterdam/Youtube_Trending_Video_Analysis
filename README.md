@@ -78,8 +78,6 @@ https://public.tableau.com/app/profile/sreeja.karanam/viz/Youtube_Dashboard_1668
 
 
 
-SQL Database
-create tables
 
 
 
