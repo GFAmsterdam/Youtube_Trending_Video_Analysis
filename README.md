@@ -99,7 +99,7 @@ Some initial questions we're hoping to answer with the dataset:
 - Does Tag count really matter for a video to be considered trending?
 
 
-Tableau Dashboard
+## Tableau Dashboard
 https://public.tableau.com/app/profile/sreeja.karanam/viz/Youtube_Dashboard_16681094161630/Correlations?publish=yes <br/>
 ![Category Metrics](https://user-images.githubusercontent.com/105166481/201225288-930cceed-feba-4592-9a7e-0c9fd3e696fb.png)
 <br/>
