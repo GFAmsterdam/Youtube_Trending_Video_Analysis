@@ -3,6 +3,9 @@
 ## Overview
 First week we are preparing the dataset and mapping out the roadmap for the project. Youtube is extremely popular, we are hoping to find out the correlation between some features in the dataset.
 
+## Presentation
+https://docs.google.com/presentation/d/1fwaEmwMtmxUeuJwRrKsIQTScDKCBnLEDw2bDtYLWXhE/edit#slide=id.gc6f73a04f_0_0
+
 ## About the dataset
 
 # YouTube Trending Video Analysis
