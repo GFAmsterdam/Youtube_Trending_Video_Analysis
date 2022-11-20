@@ -50,6 +50,23 @@ PostgreSQL Database is used for the database. Below image shows how the ERD look
 ![SQL ERD](https://user-images.githubusercontent.com/105166481/202933161-f047f5d9-4216-42d1-9a30-f1508c0c7f77.png)
 
 
+## Machine Learning
+
+* We looked at how long a video takes to trend would be our best target for machine learning. 
+* To get the data ready, we separated our features and target then created our “X” and “Y”. 
+* The data was split to have 30% of the data in our training set and 70% in our testing set. 
+* The goal is to see if the features share a relation to how many days a video trains. We will be testing this with regression.
+
+![OLS_output](https://user-images.githubusercontent.com/105166481/202933331-3e24fcf1-41b3-49ee-9b02-c66600cf09f6.png) <br/>
+
+![RMS_print_statement](https://user-images.githubusercontent.com/105166481/202933339-f3635763-4ed9-4c70-82f6-d824d56fc174.png) <br/>
+
+![Feature_target_code](https://user-images.githubusercontent.com/105166481/202933352-f5cf1d34-e9e7-4e96-a7a2-d6b5e577b613.png) <br/>
+
+![Machine Learning](https://user-images.githubusercontent.com/105166481/202583583-f1ec491b-b662-4cab-a56c-a3d317dfd072.png)
+
+
+
 ## Tableau Dashboard
 https://public.tableau.com/app/profile/sreeja.karanam/viz/Youtube_Dashboard_16681094161630/Correlations?publish=yes <br/>
 ![Category Metrics](https://user-images.githubusercontent.com/105166481/201225288-930cceed-feba-4592-9a7e-0c9fd3e696fb.png)
@@ -57,7 +74,7 @@ https://public.tableau.com/app/profile/sreeja.karanam/viz/Youtube_Dashboard_1668
 ![Youtube Video Trends](https://user-images.githubusercontent.com/105166481/201225305-21b8a933-2514-4463-8cf8-9fb11abd4cea.png)<br/>
 ![Correlations](https://user-images.githubusercontent.com/105166481/202583020-0c36a0ab-d494-40d2-bb3d-16354c71b5fd.png)<br/>
 ![Likes   Dislikes](https://user-images.githubusercontent.com/105166481/202583053-6fd49104-4057-41d9-b851-51bcf9dc9603.png)<br/>
-![Machine Learning](https://user-images.githubusercontent.com/105166481/202583583-f1ec491b-b662-4cab-a56c-a3d317dfd072.png)
+
 
 
 ## Presentation
