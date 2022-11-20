@@ -1,10 +1,11 @@
 
 # YouTube Trending Video Analysis
+
+<br/>![image](https://user-images.githubusercontent.com/105166481/198424022-199c03fb-bfb8-4d18-b173-70d5fd4b72af.png)
+
  ## Project Overview
     In this project, we will establish what factors make a trending video on YouTube in an effort to advise potential YouTubers on the markers necessary to reach trending status. We hope to use the many different configurations of data to describe the qualities of a trending video.
-
- ## Data
-    We will be using time stamps, categories, views, likes and comments to establish a pattern among trending videos. Original data was cleaned of duplicates, URLs, and null values. 
+    
  ## Project Notes/Questions
     - Does upload date effect whether a video is trending?(Can an old video still be considered trending)?
     - Does category effect returns? (returns = views)
@@ -22,16 +23,6 @@
 ## Presentation
 https://docs.google.com/presentation/d/1fwaEmwMtmxUeuJwRrKsIQTScDKCBnLEDw2bDtYLWXhE/edit#slide=id.gc6f73a04f_0_0
 
-# YouTube Trending Video Analysis
-
-<br/>![image](https://user-images.githubusercontent.com/105166481/198424022-199c03fb-bfb8-4d18-b173-70d5fd4b72af.png)
-
-## Project Overview
-The first week we are working on outlining the project and come up with an objective and questions we could answer regarding the project. 
-
-In an advertising perspective we are trying to figure out what in a video is making it the most popular on Youtube. (Cracking the Youtube Algorithm) 
-
-
 ## Data
 This dataset includes several months of data on daily trending YouTube videos for USA. with up to 200 listed trending videos per day.
 
@@ -40,6 +31,8 @@ Data includes the video title, channel title, publish time, tags, views, likes a
 
 The dataset for the project is “Trending YouTube Videos Statistics”. (source: https://www.kaggle.com/datasets/datasnaek/youtube-new) 
 The dataset contains daily trending video list from 2017-11-14 to 2018-04-16, with data such as "video_id", "title", "channel_title", "trending_date", "publish_date", "views", "likes", "dislikes", "comment_count" and more.
+
+We will be using time stamps, categories, views, likes and comments to establish a pattern among trending videos. Original data was cleaned of duplicates, URLs, and null values. 
 
 The original dataset includes 2 different data for each regions:
 - Category data which is in .json format. 
