@@ -12,9 +12,10 @@ CREATE TABLE titles (
 	
 CREATE TABLE dates (
 	video_id TEXT NOT NULL,
-	publish_date DATE NOT NULL,
+	publish_time DATE NOT NULL,
 	trending_date DATE NOT NULL,
-	diff_days INT NOT NULL,
+	publish_to_trend INT NOT NULL,
+	days_trending INT NOT NULL,
 	FOREIGN KEY (video_id) REFERENCES titles (video_id));
 	
 CREATE TABLE views (
@@ -40,3 +41,13 @@ CREATE TABLE interactive_features (
 	video_error_or_removed bool NOT NULL,
 	FOREIGN KEY (video_id) REFERENCES titles (video_id));
 	
+CREATE TABLE numeric_features (
+	video_id TEXT NOT NULL,
+	views INT NOT NULL,
+	likes INT NOT NULL,
+	dislikes INT NOT NULL,
+	comment_count INT NOT NULL,
+	publish_to_trend INT NOT NULL,
+	days_trending INT NOT NULL,
+	tags_count INT NOT NULL,
+	FOREIGN KEY (video_id) REFERENCES titles (video_id));
