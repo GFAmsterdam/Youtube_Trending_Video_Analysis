@@ -1,7 +1,8 @@
 
-# YouTube Trending Video Analysis
-
 <br/>![image](https://user-images.githubusercontent.com/105166481/198424022-199c03fb-bfb8-4d18-b173-70d5fd4b72af.png)
+# Trending Video Analysis
+
+
 
  ## Project Overview
     In this project, we will establish what factors make a trending video on YouTube in an effort to advise potential YouTubers on the markers necessary to reach trending status. We hope to use the many different configurations of data to describe the qualities of a trending video.
