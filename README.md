@@ -6,22 +6,19 @@
  ## Project Overview
     In this project, we will establish what factors make a trending video on YouTube in an effort to advise potential YouTubers on the markers necessary to reach trending status. We hope to use the many different configurations of data to describe the qualities of a trending video.
     
- ## Project Notes/Questions
+ ### Project Notes/Questions
     - Does upload date effect whether a video is trending?(Can an old video still be considered trending)?
     - Does category effect returns? (returns = views)
     - How does a video reach the status of trending? How does it lost that status?
     - How do views, shares, likes, comments effect a video? Which has the strongest effect on making a video trending?
     - What data could have further impacted this project? Financial? Cost per Click? Gender/Demographic?
 
-## Processes Used
+### Processes Used
     - Tableau will be used as our Dashboard
     - Sentimental analysis will be used on the Tags
     - SQL database
     - DB Tables will be View ID, Likes, Dislikes, etc.
     - Jupyter Notebook
-
-## Presentation
-https://docs.google.com/presentation/d/1fwaEmwMtmxUeuJwRrKsIQTScDKCBnLEDw2bDtYLWXhE/edit#slide=id.gc6f73a04f_0_0
 
 ## Data
 This dataset includes several months of data on daily trending YouTube videos for USA. with up to 200 listed trending videos per day.
@@ -46,7 +43,7 @@ Things that would have helped our analysis and are missing from this dataset
 * Video Run time
 
 
-### Database
+## Database
 
 PostgreSQL Database is going to be used. The Excel spreadsheet in the folder is an example of the details and tables we are going to look into in our database.
 
@@ -71,6 +68,8 @@ https://public.tableau.com/app/profile/sreeja.karanam/viz/Youtube_Dashboard_1668
 ![Machine Learning](https://user-images.githubusercontent.com/105166481/202583583-f1ec491b-b662-4cab-a56c-a3d317dfd072.png)
 
 
+## Presentation
+https://docs.google.com/presentation/d/1fwaEmwMtmxUeuJwRrKsIQTScDKCBnLEDw2bDtYLWXhE/edit#slide=id.gc6f73a04f_0_0
 
 
 
