@@ -1,4 +1,3 @@
-
 <br/>![image](https://user-images.githubusercontent.com/105166481/198424022-199c03fb-bfb8-4d18-b173-70d5fd4b72af.png)
 # Trending Video Analysis
 
@@ -80,9 +79,3 @@ https://public.tableau.com/app/profile/sreeja.karanam/viz/Youtube_Dashboard_1668
 
 ## Presentation
 https://docs.google.com/presentation/d/1fwaEmwMtmxUeuJwRrKsIQTScDKCBnLEDw2bDtYLWXhE/edit#slide=id.gc6f73a04f_0_0
-
-
-
-
-
-
